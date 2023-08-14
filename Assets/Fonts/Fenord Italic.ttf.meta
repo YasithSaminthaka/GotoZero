@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bb6da12085b18394da9d4dc0b75c3940
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fenord Free
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a417ccf0fde71844da3a48bce27f30e1, type: 3}
+  - {fileID: 12800000, guid: 204e377e371bbbb4db69117500a8aee7, type: 3}
+  - {fileID: 12800000, guid: 2bce5521ab2ecb34b99d72adb93114b6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
